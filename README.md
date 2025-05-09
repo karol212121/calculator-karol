@@ -1,2 +1,0 @@
-# calculator-karol
-calculator karol 
